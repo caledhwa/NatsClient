@@ -1,0 +1,18 @@
+{
+  "name": "NatsClient",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "buffer": "^4.7.0",
+    "react": "15.2.0",
+    "react-native": "^0.29.0",
+    "react-native-button": "^1.6.0",
+    "react-native-invertible-scroll-view": "^1.0.0",
+    "react-native-tcp": "^2.0.0",
+    "split": "^1.0.0",
+    "stream": "0.0.2"
+  }
+}
